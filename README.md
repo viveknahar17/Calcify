@@ -5,7 +5,7 @@ It provides a clean user interface and supports basic arithmetic operations dire
 
 ## 🚀 Live Demo
 
-👉 **[Try Quantix](https://viveknahar17.github.io/Calcify/)**
+👉 **[Try Quantix](https://viveknahar17.github.io/Quantix/)**
 
 ---
 
