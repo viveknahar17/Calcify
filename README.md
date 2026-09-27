@@ -1,11 +1,11 @@
-# 🧮 Calcify — Modern Web Calculator
+# 🧮 Quantix — Modern Web Calculator
 
 Calcify is a simple and responsive calculator built using **HTML, CSS, and JavaScript**.  
 It provides a clean user interface and supports basic arithmetic operations directly in the browser.
 
 ## 🚀 Live Demo
 
-👉 **[Try Calcify](https://viveknahar17.github.io/Calcify/)**
+👉 **[Try Quantix](https://viveknahar17.github.io/Calcify/)**
 
 ---
 
@@ -51,7 +51,7 @@ Used to implement:
 ## 📂 Project Structure
 
 ```text
-Calcify/
+Quantix/
 │
 ├── index.html      # Main HTML structure
 ├── styles.css      # Styling and responsive design
